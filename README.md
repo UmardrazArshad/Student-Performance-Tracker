@@ -1,4 +1,4 @@
-# Student Performance Tracker
+# Student Performance Tracker project
 ## Project Structure
 - First we create **Student class** that takes student names scores and calculate average of the student and also chek the passing status.
 - The we create a **PerformanceTracker** class that that add students and calculate average through methods.
